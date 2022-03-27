@@ -8,7 +8,7 @@ I began work on this a few weeks ago, but progress stalled due to a need to focu
 
 The initial checklist of what needs to be done includes:
 
-About me
+**About me**
 - Name
 - Dates of work
 - My story
@@ -17,7 +17,7 @@ About me
 	- Special skils
 - Contact information
 
-Curated work, displayed by project
+**Curated work, displayed by project**
 - Context
 	- Summary
 	- Problem statement
