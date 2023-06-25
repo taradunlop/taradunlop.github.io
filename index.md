@@ -4,11 +4,3 @@
 
 layout: home
 ---
-
-<h1>Portfolio Work</h1>
-
-{% for post in site.categories.portfolio %}
-
-<h2><a href="{{post.url}}">{{ post.title }}</a></h2>
-
-{% endfor %}
