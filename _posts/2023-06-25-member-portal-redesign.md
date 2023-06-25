@@ -1,7 +1,7 @@
 ---
 title: "Member Portal Redesign"
 category: portfolio
-# date: 2023-06-25
+date: 2023-06-25
 ---
 
 **Context**

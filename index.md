@@ -4,14 +4,13 @@
 # layout: home
 
 layout: page
-title: Making Cake
 order: 1
 ---
 
-<h1>Portfolio Work</h1>
+<h2>Portfolio Work</h2>
 
 {% for post in site.categories.portfolio %}
 
-<h2><a href="{{post.url}}">{{ post.title }}</a></h2>
+<h3><a href="{{post.url}}">{{ post.title }}</a></h3>
 
 {% endfor %}
