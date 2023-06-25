@@ -9,6 +9,6 @@ layout: home
 
 {% for post in site.categories.portfolio %}
 
-<a href="{{post.url}}">{{ post.title }}</a>
+<h2><a href="{{post.url}}">{{ post.title }}</a></h2>
 
 {% endfor %}
