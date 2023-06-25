@@ -46,3 +46,7 @@ Over all member satisfaction was significantly increased: [placeholder for data 
 
 
 **Challenges**
+
+![Sitemap](/assets/member-portal-redesign-sitemap.png)
+
+![Sample Page](/assets/member-portal-redesign-health-coaching.png)
