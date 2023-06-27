@@ -61,5 +61,5 @@ Over all member satisfaction was significantly increased: [placeholder for data 
 
 ![Sample Page](/assets/img/member-portal-redesign-health-coaching.png)
 
-![Style Guide Page 1](/assets/img/member-portal-redesign-vendor-style-guide-page1.png){:width="48%" margin-right="15px"}
+![Style Guide Page 1](/assets/img/member-portal-redesign-vendor-style-guide-page1.png){:width="48%"}
 ![Style Guide Page 2](/assets/img/member-portal-redesign-vendor-style-guide-page2.png){:width="48%"} 
