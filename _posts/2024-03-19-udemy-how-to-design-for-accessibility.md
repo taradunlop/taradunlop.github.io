@@ -17,5 +17,7 @@ Accessible UX Design Process
 ## Resources
 
 <https://www.w3.org/WAI/tips/designing/>
+
 <https://www.mcdpartners.com/news/top-5-common-web-accessibility-mistakes/>
-[S3-S7+Action+Summaries.pdf](/assets/pdf/S3-S7+Action+Summaries.pdf)
+
+[S3-S7+Action+Summaries.pdf](/assets/S3-S7+Action+Summaries.pdf)
