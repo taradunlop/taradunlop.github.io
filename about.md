@@ -8,6 +8,4 @@ permalink: /about/
 
 I'm a technology and information science professional with over 14 years of experience and a passion for user experience and information structure. My goal is to develop experiences that enable people to find and access the information they need with the greatest ease.
 
-[LinkedIn](https://www.linkedin.com/in/taradunlop/)
-
 [Instagram](https://www.instagram.com/taranotchizuye/)
