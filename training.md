@@ -6,7 +6,9 @@ permalink: /training/
 
 Check out the training I'm working on and have completed.
 
-[<h3>Udemy</h3>](https://www.udemy.com/user/tara-dunlop/)
+<h3>Udemy</h3>
+
+[Udemy Profile](https://www.udemy.com/user/tara-dunlop/)
 
 {% for post in site.categories.udemy-training %}
 
