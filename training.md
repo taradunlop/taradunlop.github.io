@@ -6,15 +6,15 @@ permalink: /training/
 
 Check out the training I'm working on and have completed.
 
-[Udemy](https://www.udemy.com/user/tara-dunlop/)
+<h3>[Udemy](https://www.udemy.com/user/tara-dunlop/)</h3>
 
 {% for post in site.categories.udemy-training %}
 
-<h3><a href="{{post.url}}">{{ post.title }}</a></h3>
+<a href="{{post.url}}">{{ post.title }}</a>
 
 {% endfor %}
 
-Hack Design
+<h3>Hack Design</h3>
 
-Hack Design 101
+<h3>Hack Design 101</h3>
 
