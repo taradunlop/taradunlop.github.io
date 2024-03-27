@@ -12,11 +12,13 @@ Accessibility and Usability Best Practices for UX and UI Designers (User Experie
 
 ## Notes
 
-### 3. Meet Your Instructor
+### Section 1: Getting Started
+
+#### 1.3 Meet Your Instructor
 
 Key → Accessible UX Design Process
 
-### 4. Warm-Up Activity: Gauging Where You're At Now
+#### 1.4 Warm-Up Activity: Gauging Where You're At Now
 
 Question 1: A B D → F
 
@@ -28,19 +30,26 @@ Question 4: False → False (Section 5)
 
 Question 5: C → A Don't use "Read More" links (Section 5)
 
-### 5. Story: Why Accessibility Matters
+### 1.5 Story: Why Accessibility Matters
 
 Quote → "Accessibility is essential for some but useful for all."
 
-## Resources
+### Resources
 
-### Links
+#### Links
 <https://www.w3.org/WAI/tips/designing/>
 
 <https://www.mcdpartners.com/news/top-5-common-web-accessibility-mistakes/>
 
 <https://medium.com/points-san-francisco/why-accessibility-matters-7ca6762ec0b5>
 
-### Documents
+#### Documents
 
 [S3-S7+Action+Summaries.pdf](/assets/S3-S7+Action+Summaries.pdf)
+
+### Section 2: Accessibility 101
+
+Skipping Section 2, the Who, What, When, Where, and Why of Accessibility for beginners.
+
+### Section 3: Color Contrast
+
