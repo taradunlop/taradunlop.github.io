@@ -57,7 +57,7 @@ Skipping Section 2, the Who, What, When, Where, and Why of Accessibility for beg
 
 #### Documents
 
-[S3-S7+Action+Summaries.pdf](/assets/S3-S7+Action+Summaries.pdf){:target="_blank"}
+[S3-S7+Action+Summaries.pdf](/assets/pdf/S3-S7+Action+Summaries.pdf){:target="_blank"}
 
 
 
