@@ -25,6 +25,7 @@ Work began in September of 2022 and is ongoing.
 ## Outputs
 
 - SharePoint site
+- Confluence organization
 
 ## Outcomes of project
 
