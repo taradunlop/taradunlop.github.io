@@ -40,9 +40,9 @@ Skipping Section 2, the Who, What, When, Where, and Why of Accessibility for beg
 
 ### Section 3: Color Contrast
 
+Not all elements need to meet contrast requirements.
 
-
-
+![Color Contrast Quick Reference](/assets/img/Color_Contrast_Quick_Ref.jpg){:width="25%"}
 
 ### Resources
 
@@ -58,6 +58,8 @@ Skipping Section 2, the Who, What, When, Where, and Why of Accessibility for beg
 #### Documents
 
 [S3-S7+Action+Summaries.pdf](/assets/pdf/S3-S7+Action+Summaries.pdf){:target="_blank"}
+
+[S3+Action+Summary.pdf](/assets/pdf/S3+Action+Summary.pdf){:target="_blank"}
 
 
 
