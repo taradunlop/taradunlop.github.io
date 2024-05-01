@@ -1,6 +1,6 @@
 ---
 title: "How To Design for Accessibility: for UX Designers (WCAG 2.2)"
-category: udemy-learning
+category: udemy-courses
 date: 2024-03-19
 ---
 
@@ -34,22 +34,31 @@ Question 5: C → A Don't use "Read More" links (Section 5)
 
 Quote → "Accessibility is essential for some but useful for all."
 
-### Resources
-
-#### Links
-<https://www.w3.org/WAI/tips/designing/>{:target="_blank"}
-
-<https://www.mcdpartners.com/news/top-5-common-web-accessibility-mistakes/>{:target="_blank"}
-
-<https://medium.com/points-san-francisco/why-accessibility-matters-7ca6762ec0b5>{:target="_blank"}
-
-#### Documents
-
-[S3-S7+Action+Summaries.pdf](/assets/S3-S7+Action+Summaries.pdf){:target="_blank"}
-
 ### Section 2: Accessibility 101
 
 Skipping Section 2, the Who, What, When, Where, and Why of Accessibility for beginners.
 
 ### Section 3: Color Contrast
+
+
+
+
+
+### Resources
+
+#### Links
+[W3C: Designing for Web Accessibility](https://www.w3.org/WAI/tips/designing/){:target="_blank"}
+
+[MCD Partners: Top 5 Most Common Web Accessibility Mistakes](https://www.mcdpartners.com/news/top-5-common-web-accessibility-mistakes/){:target="_blank"}
+
+[Medium: Why Accessibility Matters](https://medium.com/points-san-francisco/why-accessibility-matters-7ca6762ec0b5){:target="_blank"}
+
+[Web Access Perspectives: Colors with Good Contrast](https://www.w3.org/WAI/perspective-videos/contrast/){:target="_blank"}
+
+#### Documents
+
+[S3-S7+Action+Summaries.pdf](/assets/S3-S7+Action+Summaries.pdf){:target="_blank"}
+
+
+
 
